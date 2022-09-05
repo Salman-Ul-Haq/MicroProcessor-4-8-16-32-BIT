@@ -1,0 +1,11 @@
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\bin\Debug\MicroProcessor Designer.exe.config
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\bin\Debug\MicroProcessor Designer.exe
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\bin\Debug\MicroProcessor Designer.pdb
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.csproj.AssemblyReference.cache
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.csproj.SuggestedBindingRedirects.cache
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor_Designer.Form1.resources
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor_Designer.Properties.Resources.resources
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.exe
+C:\Users\salma\source\repos\MicroProcessor Designer\MicroProcessor Designer\obj\Debug\MicroProcessor Designer.pdb
